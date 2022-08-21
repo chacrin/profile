@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/narasimhachakravarthy">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/user/MrChacrin/videos">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/ccb430ae-6e99-40ca-89ef-783244274ca6">
@@ -16,7 +15,7 @@
     Narasimha Chakravarthy
   </h1>
 </div>
-<div align="center">
+<div id="logo" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
@@ -40,9 +39,9 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacrin&theme=dark&background=000000)](https://git.io/streak-stats)
+[! [GitHub Streak] (http://github-readme-streak-stats.herokuapp.com?user=chacrin&theme=dark&background=000000)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacrin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacrin&layout=compact&theme=vision-friendly-dark)]
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
